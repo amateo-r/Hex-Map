@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 201501bb3746e22449b894778826720e, type: 3}
+  m_Name: test_2
+  m_EditorClassIdentifier: 
+  name: Silver
+  turn_amount: 3
+  tile_factory: 0
+  farmable_biomes: 0
+  farmable_seasons: 3
+  abundant: 1
+  gb: {fileID: 1406979431848437827, guid: 5ba2f4e51cf8fe249b2553d895b1ce02, type: 3}
